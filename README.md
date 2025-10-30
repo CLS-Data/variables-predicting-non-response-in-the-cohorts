@@ -1,12 +1,12 @@
-# Deriving datasets of variables that predict non-response in the CLS cohort studies: NCDS, BCS70, Next Steps, and MCS
+# Deriving datasets of variables that predict missing data the CLS cohort studies: NCDS, BCS70, Next Steps, and MCS
 
 [Centre for Longitudinal Studies](https://cls.ucl.ac.uk/)
 
 ---
 
 ## Overview [high-level summary, e.g. the below]
-- This repository provides **Stata do files** that derive datasets of variables that predict non-response or missing data in each of the CLS cohort: NCDS, BCS70, Next Steps, and MCS. These variables have been identified in an extensive programme of work that informs users how best to deal with missing data in longitudinal cohort studies.
--  harmonise the multiple sweeps of [**Next Steps**](https://cls.ucl.ac.uk/cls-studies/next-steps/) into a single tidy dataset, so analysts can get straight to research rather than recoding. 
+- This repository provides **Stata do files** that derive datasets of variables that predict non-response or missing data in each of the CLS cohorts: NCDS, BCS70, Next Steps, and MCS. These variables have been identified in an extensive programme of work that informs users how best to deal with missing data in longitudinal cohort studies.
+- The handling missing data in the CLS cohort studies user guide provides full information on how the predictors of missing       user guide  harmonise the multiple sweeps of [**Next Steps**](https://cls.ucl.ac.uk/cls-studies/next-steps/) into a single tidy dataset, so analysts can get straight to research rather than recoding. 
 - The variables are given consistent names that reflect the content and age of participants (e.g., `Educ25` for **educational** attainment at age 25).
 
 ---
