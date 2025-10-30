@@ -6,7 +6,7 @@
 
 ## Overview
 - This repository provides **Stata do files** that derive variables that predict non-response or missing data in each of the CLS cohort studies: NCDS, BCS70, Next Steps, and MCS. These variables have been identified in an extensive programme of work that informs users on how best to deal with missing data in longitudinal cohort studies.
-- The [**handling missing data in the CLS cohort studies user guide**](https://cls.ucl.ac.uk/wp-content/uploads/2020/04/Handling-Missing-Data-User-Guide-2024.pdf) provides full information on how the variables predicting missing data have been identified and how they should be used in analysis.
+- The [**handling missing data in the CLS cohort studies user guide**](https://cls.ucl.ac.uk/wp-content/uploads/2020/04/Handling-Missing-Data-User-Guide-2024.pdf) provides full information on how the variables predicting missing data have been identified and how they should be used in analysis of cohort data.
 
 ---
 
