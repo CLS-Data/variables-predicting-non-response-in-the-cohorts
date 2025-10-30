@@ -5,7 +5,8 @@
 ---
 
 ## Overview [high-level summary, e.g. the below]
-- This repository provides **R scripts** that harmonise the multiple sweeps of [**Next Steps**](https://cls.ucl.ac.uk/cls-studies/next-steps/) into a single tidy dataset, so analysts can get straight to research rather than recoding. 
+- This repository provides **Stata do files** that derive datasets of variables that predict non-response or missing data in each of the CLS cohort: NCDS, BCS70, Next Steps, and MCS. These variables have been identified in an extensive programme of work that informs users how best to deal with missing data in longitudinal cohort studies.
+-  harmonise the multiple sweeps of [**Next Steps**](https://cls.ucl.ac.uk/cls-studies/next-steps/) into a single tidy dataset, so analysts can get straight to research rather than recoding. 
 - The variables are given consistent names that reflect the content and age of participants (e.g., `Educ25` for **educational** attainment at age 25).
 
 ---
