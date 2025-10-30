@@ -12,8 +12,8 @@
 
 ## Syntax and data availability
 
-- *Source data:* Download raw data from each of the cohort studies from the [**UK Data Service**](https://ukdataservice.ac.uk/). For each cohort study, most raw data files for all study sweeps are needed for deriving the final dataset of variables that predict missing data.   
-- *Syntax:* `01_build_dataset.R` reads those files and produces `data/derived/next_steps.parquet` *(note: keep the code well-commented and use **relative** file paths—e.g., `here::here("data", "raw", ...)` in R, or `$raw` / `$derived` globals in Stata).*
+- *Source data:* Download raw data from one or more of the cohort studies from the [**UK Data Service**](https://ukdataservice.ac.uk/). For each cohort study, most raw data files for all study sweeps are needed for deriving the final dataset of variables that predict missing data. Place the raw data files in a folder on your computer.       
+- *Syntax:* There is a separate do file for each cohort study that reads the raw data files and generates a single dataset for the given cohort study. 
 - *Derived dataset:* Available to download from the [**UK Data Service**](https://beta.ukdataservice.ac.uk).
 
 ---
