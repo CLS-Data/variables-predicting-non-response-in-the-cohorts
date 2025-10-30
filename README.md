@@ -1,4 +1,4 @@
-# Deriving datasets of variables that predict missing data the CLS cohort studies: NCDS, BCS70, Next Steps, and MCS
+# Deriving variables that predict missing data the CLS cohort studies: NCDS, BCS70, Next Steps, and MCS
 
 [Centre for Longitudinal Studies](https://cls.ucl.ac.uk/)
 
