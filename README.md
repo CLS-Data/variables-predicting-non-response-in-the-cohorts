@@ -22,10 +22,7 @@
 We welcome user feedback. Please open an issue on GitHub or email **clsdata@ucl.ac.uk**.
 
 ## Authors
-- XXX
-
-## Contributors
-- XXX
+- Aase Villadsen
 
 ## Licence  
 Code: MIT Licence (see `LICENSE`).
