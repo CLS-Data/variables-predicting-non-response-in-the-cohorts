@@ -12,7 +12,7 @@
 
 ## Syntax and data availability
 
-- *Source data:* Download raw data from each of the cohort studies from the [**UK Data Service**](https://ukdataservice.ac.uk](https://datacatalogue.ukdataservice.ac.uk/studies/study/5545#details)). For each cohort study, data files for all study sweeps are needed for deriving the final dataset of variables predicting missing data. The do files specify the files needed. Place the raw data files in a folder on your computer.       
+- *Source data:* Download raw data from each of the cohort studies from the [**UK Data Service**](https://datacatalogue.ukdataservice.ac.uk/studies/study/5545#details). For each cohort study, data files for all study sweeps are needed for deriving the final dataset of variables predicting missing data. The do files specify the files needed. Place the raw data files in a folder on your computer.       
 - *Syntax:* Each cohort study has its own do file that reads the raw data and generates a single dataset for the given cohort. Note that raw cohort study data is occassionally updated with the UK Data Service, and therefore the code may not run seamlessly on future versions of data. Users would therefore need to make small adjustments to the code to accommodate.       
 
 ---
